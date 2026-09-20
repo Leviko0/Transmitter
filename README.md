@@ -17,4 +17,5 @@ Schematic:
 
 
 PCB:
-I am still working on the PCB
+<img width="1310" height="479" alt="image" src="https://github.com/user-attachments/assets/03425f63-3bec-4898-a5db-c6b3699d9500" />
+
