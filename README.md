@@ -19,3 +19,5 @@ Schematic:
 PCB:
 <img width="1310" height="479" alt="image" src="https://github.com/user-attachments/assets/03425f63-3bec-4898-a5db-c6b3699d9500" />
 
+3D view:
+<img width="859" height="308" alt="image" src="https://github.com/user-attachments/assets/97b72c28-3a41-4f8f-8494-a52c517ead03" />
