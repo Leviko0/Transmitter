@@ -22,4 +22,5 @@ PCB:
 
 
 3D view:
-<img width="859" height="308" alt="image" src="https://github.com/user-attachments/assets/97b72c28-3a41-4f8f-8494-a52c517ead03" />
+<img width="1012" height="368" alt="image" src="https://github.com/user-attachments/assets/0b992097-6fc5-42d2-9c56-0f02167395c4" />
+
