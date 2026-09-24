@@ -13,7 +13,8 @@ Transmitter based on ESP32 and ESPNOW for a RC tracked vehicle. It utilizes the 
 
 
 Schematic:
-<img width="1420" height="709" alt="image" src="https://github.com/user-attachments/assets/94d8ef0e-cb8a-4e24-8f0b-b54eda4871a1" />
+<img width="1306" height="650" alt="image" src="https://github.com/user-attachments/assets/e3fbd3e0-421d-4b72-9ad8-9240a4e5cede" />
+
 
 
 PCB:
